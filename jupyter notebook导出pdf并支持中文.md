@@ -17,6 +17,7 @@
 ```latex
 \usepackage{fontspec, xunicode, xltxtra}
 \setmainfont{Microsoft YaHei}
+\usepackage{ctex}
 ```
 ![修改latex文件](https://upload-images.jianshu.io/upload_images/2473543-898fdf8271689505.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -43,3 +44,5 @@ xelatex yourNotebookName.tex
 ps:
 - 现在觉得下载安装部分说得有些简略，之后可以把这部分说得更详细；
 - 原文[简书链接](https://www.jianshu.com/p/6b84a9631f8a)
+- [MiKTeX 中文支持的解决方案](https://jingyan.baidu.com/article/ff411625e229d512e482379c.html)
+- [ipython notebook导出含有中文的pdf文件](https://blog.csdn.net/weixin_42114013/article/details/81106797)
